@@ -2,6 +2,8 @@
 
 **DevOps Actions Generator** is a powerful, AI-driven tool designed to streamline the creation of GitHub Actions workflows. Built with [Streamlit](https://streamlit.io/) and powered by Google's [Gemini API](https://deepmind.google/technologies/gemini/), this application scans your local project directory, intelligently identifies the technology stack, and generates tailored CI/CD workflows to automate your development pipeline.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/467ad5cf-35c3-481b-ac75-f2b4132b9e0f" />
+
 ## ✨ Features
 
 -   **📂 Smart Directory Scanning**: Automatically scans your project's file structure to understand its context.
