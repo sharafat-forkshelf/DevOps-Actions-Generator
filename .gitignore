@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.whl
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Unit test / coverage reports
+.coverage
+.pytest_cache/
+htmlcov/
+.nox/
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp # vim swap files
+
+# Virtual environment
+env/
+venv/
+.venv/
+/venv/
+/env/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+
+# Pyright
+.pyright/
+
+# Rye
+.rye/
+
+# Black / ruff cache
+.ruff_cache/
+.black/
+
+# Local configuration
+.env
+.flaskenv
+*.sqlite3
